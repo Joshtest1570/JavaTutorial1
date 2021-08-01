@@ -2,5 +2,6 @@ package com.hornixuk;
 
 public class Circle {
   
-  private String radius;
+  private int radius;
+  private int perimeter;
 }
